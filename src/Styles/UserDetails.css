@@ -1,0 +1,33 @@
+
+  .jumbotron {
+    text-align: center;
+  }
+  
+  .card {
+    margin-bottom: 10px;
+  }
+  
+  .card-header {
+    color: white;
+    background-color: rgb(230, 159, 17);
+    font-weight: bold;
+  }
+
+  .display-4 {
+    padding: 20px;
+  }
+
+  .all-cards {
+    margin-top: 25px;
+  }
+
+  .username {
+    font-weight: bold;
+  }
+
+  .btn-custom {
+    margin: 10px;
+    background-color: rgba(230, 159, 17, 0.525);
+    border: none;
+    color: #000;
+  }
